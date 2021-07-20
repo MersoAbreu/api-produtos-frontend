@@ -1,27 +1,29 @@
-# Sistema
+<h1>API PRODUTOS</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+<h2>Front-end Angular</h2>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h4>Tenha instalado em sua maquina os seguintes</h4>
+<ol>
+<li>Node (versão a cima da 12)</li>
+<li>Java JDK 11</li>
+<li>Banco de daods MySQL</li>
+</ol>
+<br>
+<br>
+<h4>Para rodar o projeto Front-end siga os passos</h4>
+<ul>
+<li>Ao abrir o código em sua IDE preferida, rode o comando no terminal npm install</li>
+<li>Assim que baixada todas as dependencias do node-modules rode o comando npm start ou ng serve</li>
+<li>A pagina no browse irá abrir no caminho http://localhost:4200</li>
 
-## Code scaffolding
+<h4>Projeto Backend<h4>
+<p>Projeto backend construido com API Rest Java com Springboot</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h4>Para rodar projeto back-end</h4>
 
-## Build
+<p> O projeto backend esta rodando pelo endereço http://localhost:8090/api-produtos</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+</ul>
